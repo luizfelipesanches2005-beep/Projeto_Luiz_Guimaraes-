@@ -7,4 +7,5 @@ public class D {
     public void setD2(int D2) { this.D2 = D2; }
     public void MD1() { System.out.println("Método MD1 executado"); }
     public void MD2() { System.out.println("Método MD2 executado"); }
+    public void MD3() { System.out.println("Método MD3 executado"); }
 }
